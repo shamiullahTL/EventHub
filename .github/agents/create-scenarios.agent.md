@@ -1,7 +1,9 @@
 ---
+---
 name: create-scenarios-agent.md
 description: Generate functional test scenarios from domain knowledge using 6 thinking lenses.
-argument-hint: [feature-name or blank for full suite].
+argument-hint: "feature-name or blank for full suite"
+---
 # tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'todo'] # specify the tools this agent can use. If not set, all enabled tools are allowed.
 ---
 
